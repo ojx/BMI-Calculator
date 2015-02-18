@@ -5,6 +5,8 @@ You must complete the assignment based on the UI Mock Up image. When either butt
 
 Add a stylesheet to create an attractive application.
 
+![Interface Mock Up](src/ui-mockup.png)
+
 If you have everything working (and some extra time left):
 
 - Add a transition when the BMI value is displayed (e.g. `FadeTransition` or `TranslateTransition`)
