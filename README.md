@@ -8,6 +8,6 @@ Add a stylesheet to create an attractive application.
 If you have everything working (and some extra time left):
 
 - Add a transition when the BMI value is displayed (e.g. `FadeTransition` or `TranslateTransition`)
-- If a metric calculation is made, fill in the imperial `TextField`s with their equivelent values
-- If an imperial calculation is made, fill in the metric `TexField`s with their equivelent values
+- If a metric calculation is made, fill in the imperial `TextField`s with their equivalent values
+- If an imperial calculation is made, fill in the metric `TexField`s with their equivalent values
 - Add an image (using an `ImageView`)
